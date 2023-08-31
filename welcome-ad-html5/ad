@@ -1,1 +1,3 @@
+git commit --allow-empty -m "Trigger rebuild"
 
+I'm not sure if the site just needed some time to show up, but I was getting a 404 error after pushing my master branch... Then I changed my 'theme' in the repo's settings. All of a sudden it started working! A file called config.yml appeared with the theme metadata.
